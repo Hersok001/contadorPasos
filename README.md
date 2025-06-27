@@ -8,7 +8,7 @@ Aplicación móvil desarrollada en **Kotlin con Jetpack Compose** que permite co
 
 **Asignatura:** Desarrollo de Software Móvil  
 **Universidad:** Corporación Universitaria Minuto de Dios - UNIMINUTO  
-**Estudiante:** [Brayan Romero Prieto]  
+**Estudiante:** Brayan Romero Prieto
 
 
 ---
@@ -31,19 +31,4 @@ Aplicación móvil desarrollada en **Kotlin con Jetpack Compose** que permite co
 
 ---
 
-## 🖼️ Captura de pantalla
-
-<p align="center">
-  <img src="captura.png" alt="Pantalla principal" width="300"/>
-</p>
-
-> Puedes reemplazar `captura.png` por una imagen real de tu app o una simulación desde el emulador.
-
----
-
-## 🔧 Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/contador-pasos.git
 
